@@ -47,3 +47,8 @@
     - ChatGPT API와 언어 감수성 분석 모델을 웹에 적용
       
         ![image](https://github.com/ssongm2/2023_language_sensitivity/assets/157574142/069739a9-4a55-425e-9d06-8e88ec8b2646)
+
+4. 논문 작성
+   - 'An Engineering Approach to Datasets and Models for Language Sensitivity'
+   - 언어 감수성 데이터셋 구축과 모델과 관련하여 논문 작성
+   - 국내 ICT 플랫폼 학회에서 발표
