@@ -45,5 +45,4 @@
 
 3. ChatGPT API 적용한 웹 구현
     - ChatGPT API와 언어 감수성 분석 모델을 웹에 적용
-
 ![image](https://github.com/ssongm2/2023_language_sensitivity/assets/157574142/069739a9-4a55-425e-9d06-8e88ec8b2646)
